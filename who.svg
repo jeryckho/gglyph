@@ -5,6 +5,7 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
   width="100mm"
@@ -17,24 +18,33 @@
  <defs
    id="defs2" />
  <sodipodi:namedview
+   gridtolerance="10"
+   objecttolerance="20"
    id="base"
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.385"
-   inkscape:cx="239"
-   inkscape:cy="397"
+   inkscape:zoom="1.47"
+   inkscape:cx="159"
+   inkscape:cy="222"
    inkscape:document-units="mm"
-   inkscape:current-layer="layer2"
+   inkscape:current-layer="layer5"
    inkscape:document-rotation="0"
-   showgrid="false"
-   inkscape:window-width="942"
-   inkscape:window-height="1001"
-   inkscape:window-x="0"
-   inkscape:window-y="1080"
-   inkscape:window-maximized="0" />
+   showgrid="true"
+   inkscape:window-width="1920"
+   inkscape:window-height="1019"
+   inkscape:window-x="-9"
+   inkscape:window-y="1041"
+   inkscape:window-maximized="1">
+  <inkscape:grid
+    spacingy="10"
+    spacingx="10"
+    units="mm"
+    id="grid851"
+    type="xygrid" />
+ </sodipodi:namedview>
  <metadata
    id="metadata5">
   <rdf:RDF>
@@ -43,19 +53,25 @@
     <dc:format>image/svg+xml</dc:format>
     <dc:type
       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title />
+    <dc:title></dc:title>
    </cc:Work>
   </rdf:RDF>
  </metadata>
  <g
+   style="display:none"
+   sodipodi:insensitive="true"
+   inkscape:label="Immutable"
+   id="layer4"
+   inkscape:groupmode="layer" />
+ <g
    sodipodi:insensitive="true"
    inkscape:groupmode="layer"
    id="layer2"
-   inkscape:label="Calque 2"
+   inkscape:label="Helpers"
    style="display:inline">
   <path
     sodipodi:type="star"
-    style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+    style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
     id="path835"
     sodipodi:sides="5"
     sodipodi:cx="50.9"
@@ -73,15 +89,52 @@
     transform="matrix(1.14,0.627,-0.627,1.14,65.3,-115)" />
  </g>
  <g
-   inkscape:label="Calque 1"
+   style="display:inline"
+   inkscape:label="Target"
+   id="layer3"
+   inkscape:groupmode="layer">
+  <image
+    sodipodi:absref="L:\Prj\gglyph\Assets\Im saving the world, I need a desent shirt. 1309.png"
+    xlink:href="Assets/Im%20saving%20the%20world,%20I%20need%20a%20desent%20shirt.%201309.png"
+    y="-1.78e-15"
+    x="110"
+    width="147"
+    height="86.3"
+    preserveAspectRatio="none"
+    id="image873"
+    style="stroke-width:1.84228" />
+  <text
+    id="text859"
+    y="-19.8"
+    x="110"
+    style="font-style:normal;font-weight:normal;font-size:10.6px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    xml:space="preserve"><tspan
+     style="stroke-width:0.265px"
+     y="-19.8"
+     x="110"
+     id="tspan857"
+     sodipodi:role="line">Im saving the world,</tspan><tspan
+     id="tspan861"
+     style="stroke-width:0.265px"
+     y="-6.58"
+     x="110"
+     sodipodi:role="line">I need a desent shirt.</tspan></text>
+ </g>
+ <g
+   inkscape:label="Work"
    inkscape:groupmode="layer"
    id="layer1"
-   style="display:inline">
+   style="display:inline" />
+ <g
+   style="display:none"
+   inkscape:label="Done"
+   id="layer5"
+   inkscape:groupmode="layer">
   <g
     id="g918"
-    transform="translate(117,-42.1)">
-   <title
-     id="title841">I'm</title>
+    transform="translate(117,-42.1)"
+    inkscape:label="I'm"
+    style="display:inline">
    <circle
      r="49.5"
      cy="150"
@@ -89,7 +142,7 @@
      id="path833"
      style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
    <circle
-     style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:0.999913;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
      id="path833-5"
      cx="150"
      cy="200"
@@ -99,7 +152,7 @@
      cy="120"
      cx="150"
      id="path833-5-9"
-     style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:1.00002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+     style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
    <path
      id="path869"
      d="m 135,134 -16,12"
@@ -114,16 +167,10 @@
      style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <path
-    id="path833-56"
-    style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:1.00316;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-    d="M 97.5,35.3 A 49.6,49.6 45 0 0 90.4,21.4 49.6,49.6 45 0 0 38.8,2.09 19.5,19.5 0 0 1 32.2,25.8 19.5,19.5 0 0 1 7.85,24.5 49.6,49.6 45 0 0 10,79.6 49.6,49.6 45 0 0 79.3,90.7 49.6,49.6 45 0 0 79.5,90.6 49.6,49.6 45 0 0 97.5,35.3 Z M 2.52,65.9 A 9.51,9.51 0 0 0 -9.99,59.9 9.51,9.51 0 0 0 -16.6,72 9.51,9.51 0 0 0 -4.13,78 9.51,9.51 0 0 0 2.52,65.9 Z"
-    inkscape:transform-center-x="8.44"
-    inkscape:transform-center-y="0.0897" />
-  <circle
-    style="opacity:0.99;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:0.999985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-    id="path942"
-    cx="50"
-    cy="98.2"
-    r="19.5" />
+    inkscape:label="Saving"
+    d="m 166,171 17,-51 m -56,49 16,12 m -9,-73 20,63 m -35,3 c -11,3 -22.2,-3 -25.6,-13 -3.4,-10 2.4,-22 12.6,-25 11,-3 22,2 26,13 3,10 -3,21 -13,25 m 4,-69 c -4,-4 -3,-10.5 2,-13.7 4,-3.3 11,-2.3 14,2.1 3,4.6 2,10.6 -2,13.6 -5,4 -11,3 -14,-2 m 8,75 c 3,2 6,4 10,6 2,-10 10,-16 19,-16 9,0 17,6 19,15 19,-7 31,-26 31,-46 0,-8 -3,-17 -7,-25 -7,8 -18,9 -26,3 -8,-6 -11,-17.1 -5,-25.7 -4,-1 -8,-1.2 -12,-1.3 0,0.2 0,-0.1 0,0 -21,-0.1 -41,14 -47,34 -2,5 -3,10 -3,15 0,16 8,31 21,41 z m 80,-14 c 1,1 2,0 3,1 5,3 11,1 13,-5 2,-6 -1,-12 -7,-13 -5,-2 -11,0 -12,6 -2,4 -1,8 3,11 z"
+    style="display:inline;font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+    id="path937"
+    transform="scale(1)" />
  </g>
 </svg>
